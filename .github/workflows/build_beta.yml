@@ -1,4 +1,4 @@
-name: Build a specified version
+name: Build a specified version_ceui
 on:
   workflow_dispatch:
     inputs:
